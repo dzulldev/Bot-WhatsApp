@@ -23,11 +23,12 @@ A Simple and Powerful WhatsApp Bot using [Baileys](https://github.com/WhiskeySoc
    npm install
    ```
 
+   
 ## Run the bot:
 
-node index.js
+```node index.js```
 
-> First time running will show a QR code in terminal. Scan it using your WhatsApp 📲
+First time running will show a QR code in terminal. Scan it using your WhatsApp 📲
 
 
 ## 📁 File Structure
