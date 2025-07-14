@@ -1,0 +1,21 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "dotenv": "^17.0.1",
+    "fluent-ffmpeg": "^2.1.3",
+    "jimp": "^0.16.13",
+    "openai": "^5.8.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
