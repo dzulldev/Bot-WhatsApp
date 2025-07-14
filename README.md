@@ -21,3 +21,30 @@ A Simple and Powerful WhatsApp Bot using [Baileys](https://github.com/WhiskeySoc
 2. Install dependencies:
    ```bash
    npm install
+   ```
+
+## Run the bot:
+
+node index.js
+
+> First time running will show a QR code in terminal. Scan it using your WhatsApp 📲
+
+
+## 📁 File Structure
+
+- index.js           # Main bot logic
+- group.js           # Group command handler (optional)
+- auth_info/         # Auth folder (auto created)
+- no-profile.png     # Placeholder image
+
+
+## 🧑‍💻 Requirements
+
+Node.js 18+
+FFmpeg (for sticker/image processing)
+WhatsApp account
+Terminal with QR scan access
+
+---
+
+Made with ChatGPT using Baileys by @WhiskeySockets
